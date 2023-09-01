@@ -21,6 +21,7 @@
 - http://doc.autoxjs.com/#/widgetsBasedAutomation
 
 ---
+
 ## 青龙面板
 
 ### 官网
@@ -32,10 +33,12 @@
 
 ### 青龙 MarketPlace
 1.  https://github.com/shufflewzc/faker3
-2.  https://thin-hill-428.notion.site/Faker-1c598629675145988b43a37998a1604a
+2.  https://github.com/shufflewzc/faker2
 
 
 ### 参考文档
 - https://www.52pojie.cn/thread-1573892-1-1.html
 - https://thin-hill-428.notion.site/Faker-1c598629675145988b43a37998a1604a
 - https://www.iasuna.com/post-23.html
+- https://blog.renzicu.com/2022/qinglong-meituanelm/index.html
+- https://www.ahhhhfs.com/38488/
